@@ -1,5 +1,5 @@
 # Ankit-Kumar-Shrivastava
-Ankit Kumar Shrivastava - Personal Introduction and Biography width="1078" height="1080" alt="IMG_20260529_073312_147" src="https://github.com/user-attachments/assets/b26ce09d-e3a1-43c3-8fec-a49b2797c9a8" />
+Ankit Kumar Shrivastava - Personal Introduction and Biography ![Ankit Kumar Shrivastava](IMG_20260321_102230_807.webp)
 श्री अंकित कुमार श्रीवास्तव का जन्म 17 अगस्त 2008 को उत्तर प्रदेश राज्य के लखीमपुर खीरी जनपद में हुआ। इनका संबंध उत्तर प्रदेश के एक सामान्य परिवार से है। बचपन से ही इनकी रुचि शिक्षा, ज्ञान और नई-नई चीजें सीखने में रही है।
 
 इनकी प्रारंभिक शिक्षा के पश्चात वर्तमान में ये बी.बी.एल.सी. इंटर कॉलेज, खमरिया पंडित, ईसानगर, जनपद लखीमपुर खीरी में अध्ययनरत हैं। ये वर्तमान में कक्षा 12वीं के विद्यार्थी हैं।
