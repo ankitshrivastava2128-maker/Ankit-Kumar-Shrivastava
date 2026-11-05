@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ankit Kumar Shrivastava</title>
+<meta name="description" content="Ankit Kumar Shrivastava ka jeevan parichay, shiksha aur vyaktigat jankari.">
+<meta name="google-site-verification" content="YAHAN_APNA_GOOGLE_VERIFICATION_CODE_DALO">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f5fa;
+    color: #222;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 750px;
+    margin: auto;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: center;
+}
+h1 { color: #174a8b; }
+h2 { color: #174a8b; }
+p { line-height: 1.8; }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>Ankit Kumar Shrivastava</h1>
+    <h2>मेरा जीवन परिचय</h2>
+    <p>नमस्कार! मेरा नाम अंकित कुमार श्रीवास्तव है।</p>
+    <p>यह मेरी व्यक्तिगत वेबसाइट है। यहाँ मेरे जीवन परिचय, शिक्षा और उपलब्धियों से जुड़ी जानकारी मिलेगी।</p>
+    <h2>मेरी शिक्षा</h2>
+    <p>मैं कक्षा 12 का विद्यार्थी हूँ।</p>
+    <h2>धन्यवाद</h2>
+</div>
+</body>
+</html>
